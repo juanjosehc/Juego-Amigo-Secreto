@@ -27,4 +27,7 @@ Bienvenido al **Juego del Amigo Secreto**, una divertida y sencilla página web 
 ## 📌 ¿Cómo usarlo?  
 Solo abre la página web en tu navegador favorito y comienza a jugar. 
 
+## 📽 Demostración
+![Image](https://github.com/user-attachments/assets/1204f2ca-aa3d-4031-a55c-45348b62844a)
+
 📢 **¡Diviértete sorteando tu Amigo Secreto y deja que la suerte decida!** 🎯🎊
